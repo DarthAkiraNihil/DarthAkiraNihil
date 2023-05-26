@@ -2,9 +2,9 @@
 Hello everyone. I'm Egor Zverev but someone may know me as TheSwagVader
 ## Pet-projects
 * [CLCheckers](https://github.com/TheSwagVader/CLCheckers) - A course project for ISPU that is literally a kind of checkers game
-* [TheRes3ar4er](https://github.com/TheSwagVader/CLCheckers) - A Discord bot that searches content from rule34.xxx using its API
-* [FuFloyd](https://github.com/TheSwagVader/CLCheckers) - A program to find the shortest paths in a graph, defined by its weight matrix, using Floyd Algorithm
-* [Gervi](https://github.com/TheSwagVader/CLCheckers) - A virtual machine with ASM-like command syntax for educational purposes. Now suspended
+* [TheRes3ar4er](https://github.com/TheSwagVader/TheRes3ar4er) - A Discord bot that searches content from rule34.xxx using its API
+* [FuFloyd](https://github.com/TheSwagVader/FuFloyd) - A program to find the shortest paths in a graph, defined by its weight matrix, using Floyd Algorithm
+* [Gervi](https://github.com/TheSwagVader/GerviRemastered) - A virtual machine with ASM-like command syntax for educational purposes. Now suspended
 
 <!--
 **TheSwagVader/TheSwagVader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
