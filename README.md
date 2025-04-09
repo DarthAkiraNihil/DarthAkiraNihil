@@ -22,4 +22,4 @@ I am currently studying at ISPU. My BD is on September 2nd 2004
 * [Nervi](https://github.com/DarthAkiraNihil/Nervi) - A system for creating and building virtual machines with ASM-like command syntax for educational purposes. The Reloaded version of Gervi (by me). (now in architecture planning)
 
 ### Upcoming/In development
-* [KonnaE](https://github.com/DarthAkiraNihil/Konna) - Yet another free and open-source game engine (that is possibly like a framework) for roguelike games. It is the hobby project so far, but it may turn into something bigger
+* [Konna](https://github.com/DarthAkiraNihil/Konna) - Yet another free and open-source game engine (that is possibly like a framework) for roguelike games. It is the hobby project so far, but it may turn into something bigger
