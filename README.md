@@ -1,16 +1,16 @@
 # Welcome to my profile
 
 ## About me
-Hello everyone. I'm Egor Zverev but someone may know me as DarthAkiraNihil and TheSwagVader
+Hello everyone. I'm Egor Zverev but someone may know me as DarthAkiraNihil
 
 I am currently studying at ISPU. My BD is on September 2nd 2004
 
 ## Stack
 * Python
 * C++
-* Java (at some way)
-* Qt5 (C++)
-* Unity (I'm still learning it)
+* Java
+* Qt6 (C++)
+* Unity
 
 ## Pet-projects
 
